@@ -1,6 +1,6 @@
-## Pizza-Sales-Performance-Dashboard-Power-BI-
+Pizza-Sales-Performance-Dashboard-Power-BI-
 
-##📊 Project Overview
+📊 Project Overview
 
 This project presents a comprehensive Pizza Sales Performance Dashboard built using Power BI.
 The dataset contains 1 year of sales data (~3500 rows) including order details, customer behavior, and sales metrics.
@@ -8,7 +8,7 @@ The dataset contains 1 year of sales data (~3500 rows) including order details, 
 The goal of this project is to analyze business performance and generate actionable insights for decision-making.
 
 
-##📁 Dataset Details
+📁 Dataset Details
 
 The dataset includes the following columns:
 
@@ -25,7 +25,7 @@ The dataset includes the following columns:
 - Time of Day (Morning, Afternoon, Night)
 
 
-##📌 Key KPIs
+📌 Key KPIs
 
 - 💰 Total Sales
 - 📦 Total Orders
@@ -33,7 +33,7 @@ The dataset includes the following columns:
 - 📊 Average Order Value
 
 
-##📈 Dashboard Insights
+📈 Dashboard Insights
 
 - Sales trend over months
 - Top-selling pizzas
@@ -43,24 +43,24 @@ The dataset includes the following columns:
 - Day-wise sales trends
 - Order By time
 
-##🛠 Tools & Technologies Used
+🛠 Tools & Technologies Used
 
 - Power BI
 - Microsoft Excel
 - Data Cleaning & Transformation
 
-##🚀 Key Learnings
+🚀 Key Learnings
 
 - Data cleaning and preprocessing in Excel
 - Data modeling in Power BI
 - Creating interactive dashboards
 - Using DAX for KPIs and measures
 
-##📷 Dashboard Preview
+📷 Dashboard Preview
 ![Pizza Sales Dashboard(PowerBi) png](https://github.com/user-attachments/assets/93f934bd-bcd9-42f5-9678-624f0e2987d5)
 
 
-##📌 Conclusion
+📌 Conclusion
 
 This dashboard helps in understanding sales patterns, customer preferences, and business performance, enabling better strategic decisions.
 
